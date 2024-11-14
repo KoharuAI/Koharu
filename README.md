@@ -1,6 +1,6 @@
-# Eliza
+# Koharu
 
-<img src="./docs/static/img/eliza_banner.jpg" alt="Eliza Banner" width="100%" />
+<img src="./docs/static/img/Koharu_banner.jpg" alt="Koharu Banner" width="100%" />
 
 ### [For Chinese Version: 中文说明](./README_CN.md)
 ### [For Japanese Version: 日本語の説明](./README_JA.md)
@@ -49,11 +49,11 @@ pnpm i
 pnpm start
 ```
 
-# Customising Eliza
+# Customising Koharu
 
 ### Adding custom actions
 
-To avoid git clashes in the core directory, we recommend adding custom actions to a `custom_actions` directory and then adding them to the `elizaConfig.yaml` file. See the `elizaConfig.example.yaml` file for an example.
+To avoid git clashes in the core directory, we recommend adding custom actions to a `custom_actions` directory and then adding them to the `KoharuConfig.yaml` file. See the `KoharuConfig.example.yaml` file for an example.
 
 ## Running with different models
 
